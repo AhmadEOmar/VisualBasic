@@ -1,0 +1,10 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\bin\Release\EmployeeBonus.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\bin\Release\EmployeeBonus.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\bin\Release\EmployeeBonus.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\bin\Release\EmployeeBonus.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.Form1.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab6\EmployeeBonus\EmployeeBonus\obj\Release\EmployeeBonus.pdb

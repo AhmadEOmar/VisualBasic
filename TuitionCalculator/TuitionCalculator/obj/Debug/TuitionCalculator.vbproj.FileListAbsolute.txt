@@ -1,0 +1,21 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.TuitionCalculator.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe.config
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.TuitionCalculator.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\TuitionCalculator\TuitionCalculator\obj\Debug\TuitionCalculator.vbproj.GenerateResource.Cache
