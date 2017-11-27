@@ -1,0 +1,21 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.TimeEntry.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.exe.config
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\bin\Debug\TimeEntry.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.vbprojResolveAssemblyReference.cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.TimeEntry.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab3\TimeEntry\TimeEntry\obj\Debug\TimeEntry.vbproj.GenerateResource.Cache
