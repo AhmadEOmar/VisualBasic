@@ -1,0 +1,21 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.Form1.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.exe.config
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\bin\Debug\AlarmClock_AhmadOmar.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.vbprojResolveAssemblyReference.cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.Form1.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab1\AlarmClock_AhmadOmar\AlarmClock_AhmadOmar\obj\Debug\AlarmClock_AhmadOmar.vbproj.GenerateResource.Cache

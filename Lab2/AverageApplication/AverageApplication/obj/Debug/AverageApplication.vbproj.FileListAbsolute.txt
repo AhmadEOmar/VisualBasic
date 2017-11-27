@@ -1,0 +1,20 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.AverageApplication.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.exe.config
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\bin\Debug\AverageApplication.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.AverageApplication.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab2\AverageApplication\AverageApplication\obj\Debug\AverageApplication.vbproj.GenerateResource.Cache
