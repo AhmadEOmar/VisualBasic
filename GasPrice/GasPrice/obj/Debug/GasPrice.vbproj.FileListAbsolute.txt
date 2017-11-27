@@ -1,0 +1,21 @@
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.exe.config
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.GasPrice.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.exe.config
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\bin\Debug\GasPrice.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.vbprojResolveAssemblyReference.cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.GasPrice.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\lab7\GasPrice\GasPrice\obj\Debug\GasPrice.vbproj.GenerateResource.Cache
