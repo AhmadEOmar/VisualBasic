@@ -1,0 +1,71 @@
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong\Documents\CSC139\2010\Solution\sol_ch06\ex06_08\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong\Documents\CSC139\2010\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong\Documents\CSC139\2010\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong\Documents\CSC139\2010\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hong Cui\Documents\CSC139\Fall2012\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\Hong Cui\Documents\CSC139\Fall2013\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.vbproj.GenerateResource.Cache
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\Hong Cui\Documents\CSC139\SP2014\Assignments\Chapter 6\GasPump\GasPump\obj\x86\Debug\GasPump.vbproj.GenerateResource.Cache
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\Hong Cui\Documents\CSC139\SP2015\Examples\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.vbproj.GenerateResource.Cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.exe
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.pdb
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\bin\Debug\GasPump.xml
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.vbprojResolveAssemblyReference.cache
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.GasPump.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.Resources.resources
+C:\Users\AhmadEOmar\Desktop\School\Old Classes\VisualBaisc\Lab5\Ch6(1)\GasPump\GasPump\obj\x86\Debug\GasPump.vbproj.GenerateResource.Cache
